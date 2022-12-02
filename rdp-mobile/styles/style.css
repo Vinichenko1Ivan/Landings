@@ -1,0 +1,833 @@
+body {
+    max-width: 375px;
+    height: 5311px;
+    margin: 0px;
+}
+
+body * {
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: #131313;
+    width: 375px;
+    height: 57px; 
+}
+
+.logo-one {
+    width: 170px;
+    height: 10px;
+    position: relative;
+    left: 18px;
+    top: 20px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 15px;
+    text-transform: uppercase;
+    color: #E3B873;
+}
+
+.phone {
+    width: 107px;
+    height: 10px;
+    position: relative;
+    left: 250px;
+    top: 12px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 15px;
+    text-align: right;
+    color: #FFFFFF;
+}
+
+.first {
+    height: 476px;
+    background-image: url('../images/pic1.jpg');
+}
+
+.dark-one {
+    height: 476px;
+    background: rgba(0, 0, 0, 0.7);
+}
+
+.text-block-one {
+    width: 340px;
+    height: 60px;
+    position: relative;
+    left: 18px;
+    top: 85px;
+}
+
+.text-one {
+    margin: 0px;
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 132.83%;
+/* or 31px */
+   text-transform: uppercase;
+   color: #FFFFFF;
+}
+
+.Rostov {
+    color: #E3B873;
+}
+
+.text-two {
+    position: relative;
+    top: -3px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 135.84%;
+/* or 19px */
+    color: #FFFFFF;
+}
+
+.buttton-one {
+    width: 338.61px;
+    height: 51px;
+    position: relative;
+    left: 18px;
+    top: 227px;
+    border: none;
+    background-color: #E3B873;
+    font-family: 'Nunito Sans';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 15px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.buttton-two {
+    width: 338.61px;
+    height: 51px;
+    position: relative;
+    left: 18px;
+    top: 254px;
+    border: 1px solid #FFFFFF;
+    font-family: 'Nunito Sans';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 15px;
+    text-align: center;
+    color: #FFFFFF;
+    background: none;
+}
+
+
+
+
+
+.second {
+    height: 1505px;
+    background-color: #131313;
+}
+
+.first-container {
+    height: 1553px;
+    padding-top: 36px;
+    padding-right: 17px;
+    padding-bottom: 88px;
+    padding-left: 17px;
+}
+
+.title-text-one {
+    width: 253px;
+    height: 56px;
+    position: relative;
+    left: 43px;
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 138.6%;
+/* or 30px */
+    text-align: center;
+    letter-spacing: -0.07em;
+    text-transform: uppercase;
+    color: #E3B873;
+}
+
+.text-three {
+    position: relative;
+    top: 32px;
+    margin: 0px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 158.48%;
+/* or 17px */
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.pic-two {
+    position: relative;
+    top: 100px;
+}
+
+.data-content {
+    position: relative;
+    top: 95px;
+    width: 340px;
+    height: 168px;
+    padding-top: 36.7px;
+    padding-bottom: 58px;
+}
+
+.City { 
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 138.6%;
+/* identical to box height, or 19px */
+    text-transform: uppercase;
+    color: #E3B873;
+}
+
+.text-four {
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 135.84%;
+/* or 15px */
+    color: #FFFFFF;
+}
+
+.Repair {
+    margin-top: 27px;
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 138.6%;
+/* identical to box height, or 19px */
+    text-transform: uppercase;
+    color: #E3B873;
+}
+
+.Apartment {
+    position: relative;
+    left: 160px;
+    bottom: 144px;
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 138.6%;
+/* identical to box height, or 19px */
+    text-transform: uppercase;
+    color: #E3B873;
+}
+
+.text-five {
+    position: relative;
+    left: 160px;
+    bottom: 144px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 135.84%;
+/* or 15px */
+    color: #FFFFFF;
+}
+
+.Repair-cost {
+    position: relative;
+    left: 160px;
+    bottom: 112.5px;
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 138.6%;
+/* identical to box height, or 19px */
+    text-transform: uppercase;
+    color: #E3B873;
+}
+
+.text-six {
+    position: relative;
+    left: 160px;
+    bottom: 112.5px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 135.84%;
+/* or 15px */
+    color: #FFFFFF;
+}
+
+.Online {
+    width: 224px;
+    height: 26px;
+    position: relative;
+    left: 57px;
+    top: 156px;
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 138.6%;
+/* or 30px */
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.logo-two {
+    width: 224px;
+    height: 74px;
+    position: relative;
+    left: 57px;
+    top: 156px;
+}
+
+.pic-three {
+    position: relative;
+    top: 190px;
+}
+
+.dark-two {
+    width: 340px;
+    height: 208px;
+    background: rgba(0, 0, 0, 0.8);
+    position: relative;
+    top: -21px;
+}
+
+.logo-three {
+    position: relative;
+    left: 122px;
+    top: -170px;
+}
+
+.line {
+    width: 55px;
+    height: 1.6px;
+    position: relative;
+    left: 143px;
+    top: -95px;
+    background: #E3B873;
+    border-radius: 30px;
+}
+
+.text-seven {
+    position: relative;
+    top: -77px;
+    margin: 0px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+   line-height: 169.8%;
+/* or 19px */
+   text-align: center;
+   color: #FFFFFF;
+}
+
+.personal-data-block {
+    width: 340px;
+    height: 200px;
+    position: relative;
+    top: -15px;
+}
+
+.Name {
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 21px;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.What {
+    position: relative;
+    top: -16px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 138.72%;
+/* or 19px */
+    color: #FFFFFF;
+}
+
+.gray-line-one {
+    position: relative;
+    top: -24px;
+    width: 340px;
+    height: 1px;
+    background: #FFFFFF;
+    border: 1px solid rgba(54, 54, 54, 0.3);
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.Number {
+    position: relative;
+    top: 32px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 21px;
+    color: rgba(255, 255, 255, 0.5);
+    transform: rotate(-0.07deg);
+}
+
+.Your {
+    position: relative;
+    top: 16px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 138.72%;
+/* or 19px */
+    color: #FFFFFF;
+}
+
+.gray-line-two {
+    position: relative;
+    top: 8px;
+    width: 340px;
+    height: 1px;
+    background: #FFFFFF;
+    border: 1px solid rgba(54, 54, 54, 0.3);
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.first-checkbox {
+    position: relative;
+    top: 32px;
+}
+
+.label {
+    cursor: pointer;
+}
+
+.checkbox{
+    display: none;
+}
+
+.fake{
+    display: inline-flex;
+    width: 18px;
+    height: 18px;
+    background: #E3B873;
+    color: #fff;
+    justify-content: center;
+}
+  
+.fake::before{
+    content:"\2714";
+    opacity: 0;
+    transition: .2s;
+}
+  
+.checkbox:checked + .fake::before{
+    opacity: 1;
+}
+
+.text-eight {
+    color: #FFFFFF;
+}
+
+.submit {
+    width: 340px;
+    height: 51px;
+    position: relative;
+    top: 82px;
+    background: #E3B873;
+    box-shadow: 0px 10px 20px rgba(227, 184, 115, 0.1);
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 27px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    border: none;
+}
+
+
+
+
+
+.third {
+    height: 2000px;
+}
+
+.second-container {
+    height: 2030px;
+    padding-top: 82px;
+    padding-right: 17px;
+    padding-bottom: 145px;
+    padding-left: 17px;
+}
+
+.logo-four {
+    position: relative;
+    left: 40px;
+}
+
+.Redecor-block {
+    width: 340px;
+    height: 440px;
+    position: relative;
+    top: 40px;
+}
+
+.white-block-one {
+    width: 270px;
+    height: 241px;
+    position: relative;
+    top: -148px;
+    background: #FFFFFF;
+    box-shadow: 5px 10px 20px rgba(0, 0, 0, 0.05);
+}
+
+.Redecor {
+    position: relative;
+    left: 31px;
+    top: 21px;
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 138.6%;
+/* identical to box height, or 21px */
+    color: #363636;
+}
+
+.first-list-style {
+    position: relative;
+    left: 3.5px;
+    top: 10px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 169.8%;
+/* or 22px */
+    color: #959595;
+}
+
+.price-block-one {
+    width: 190.43px;
+    height: 40px;
+    position: relative;
+    top: -184px;
+    background: #E3B873;
+    box-shadow: 5px 5px 10px rgba(227, 184, 115, 0.3);
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 138.6%;
+/* or 21px */
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.price-one {
+    position: relative;
+    left: 19.2px;
+    top: 10px;
+}
+
+.Overhaul-block {
+    width: 340px;
+    height: 440px;
+    position: relative;
+    top: 130px;
+}
+
+.white-block-two {
+    width: 270px;
+    height: 241px;
+    position: relative;
+    top: -148px;
+    background: #FFFFFF;
+    box-shadow: 5px 10px 20px rgba(0, 0, 0, 0.05);
+}
+
+.price-block-two {
+    width: 190.43px;
+    height: 40px;
+    position: relative;
+    top: -184px;
+    background: #E3B873;
+    box-shadow: 5px 5px 10px rgba(227, 184, 115, 0.3);
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 138.6%;
+/* or 21px */
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.price-two {
+    position: relative;
+    left: 19.2px;
+    top: 10px;
+}
+
+.Designer-block {
+    width: 340px;
+    height: 440px;
+    position: relative;
+    top: 220px;
+}
+
+.white-block-three {
+    width: 270px;
+    height: 241px;
+    position: relative;
+    top: -148px;
+    background: #FFFFFF;
+    box-shadow: 5px 10px 20px rgba(0, 0, 0, 0.05);
+}
+
+.price-block-three {
+    width: 190.43px;
+    height: 40px;
+    position: relative;
+    top: -184px;
+    background: #E3B873;
+    box-shadow: 5px 5px 10px rgba(227, 184, 115, 0.3);
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 138.6%;
+/* or 21px */
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.price-three {
+    position: relative;
+    left: 19.2px;
+    top: 10px;
+}
+
+.We-block {
+    width: 340px;
+    height: 66px;
+    margin-top: 60px;
+    margin-bottom: 24px;
+    position: relative;
+    top: 250px;
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 138.6%;
+/* or 30px */
+    text-align: center;
+    text-transform: uppercase;
+    color: #E3B873;
+}
+
+
+
+
+
+.fourth {
+    height: 1190px;
+    background-color: #131313;
+}
+
+.third-container {
+    height: 1190px;
+    padding-right: 17px;
+    padding-left: 17px;
+}
+
+.pic-seven {
+    position: relative;
+    top: -125px;
+}
+
+.logo-five {
+    position: relative;
+    top: -279px;
+}
+
+.logo-six {
+    position: relative;
+    left: 202px;
+    top: -279px;
+}
+
+.Have {
+    position: relative;
+    top: -145px;
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.question-block {
+    width: 340px;
+    height: 420px;
+    position: relative;
+    top: -92px;
+}
+
+.name-two-block {
+    width: 340px;
+    height: 45px;
+}
+
+.name-two {
+    margin: 0px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 21px;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.what-two {
+    position: relative;
+    top: -16px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+.line-four {
+    position: relative;
+    top: -29px;
+    width: 340px;
+    height: 1px;
+    background: #FFFFFF;
+    border: 1px solid rgba(54, 54, 54, 0.3);
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.phone-two-block {
+    width: 340px;
+    height: 45px;
+    position: relative;
+    top: 63px;
+}
+
+.question {
+    width: 340px;
+    height: 45px;
+    position: relative;
+    top: 125px;
+}
+
+.second-checkbox {
+    position: relative;
+    top: 148px;
+}
+
+.label {
+    cursor: pointer;
+}
+
+.checkbox{
+    display: none;
+}
+
+.fake{
+    display: inline-flex;
+    width: 18px;
+    height: 18px;
+    background: #E3B873;
+    color: #fff;
+    justify-content: center;
+}
+  
+.fake::before{
+    content:"\2714";
+    opacity: 0;
+    transition: .2s;
+}
+  
+.checkbox:checked + .fake::before{
+    opacity: 1;
+}
+
+.submit-second {
+    width: 340px;
+    height: 51px;
+    position: relative;
+    top: 212px;
+    background: #E3B873;
+    box-shadow: 0px 10px 20px rgba(227, 184, 115, 0.1);
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 27px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    border: none;
+}
+
+.pic-eight {
+    position: relative;
+    top: -48px;
+}
+
+.addres-block {
+    position: relative;
+    top: -14px;
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 138.6%;
+/* or 25px */
+    text-align: center;
+    text-transform: uppercase;
+    color: #E3B873;
+}
+
+.two-logos {
+    width: 100px;
+    height: 39px;
+    position: relative;
+    left: 122px;
+    top: 10px;
+}
+
+.logo-eight {
+    position: relative;
+    left: 21px;
+}
